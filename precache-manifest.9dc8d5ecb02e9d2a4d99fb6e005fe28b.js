@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66e0854c6b65283132fa668ce9ad6fb5",
+    "revision": "6c22548ffdae5e8241665d16b27dad25",
     "url": "/defi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/defi/static/css/2.66535268.chunk.css"
   },
   {
-    "revision": "e302ab6111cc99892e37",
+    "revision": "c2624caf3df17658d810",
     "url": "/defi/static/css/main.74836f57.chunk.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/defi/static/js/5.4229739e.chunk.js"
   },
   {
-    "revision": "e302ab6111cc99892e37",
-    "url": "/defi/static/js/main.da188325.chunk.js"
+    "revision": "c2624caf3df17658d810",
+    "url": "/defi/static/js/main.74bd3787.chunk.js"
   },
   {
     "revision": "029c6601ed090a6b444d09258de6b8ae",
-    "url": "/defi/static/js/main.da188325.chunk.js.LICENSE.txt"
+    "url": "/defi/static/js/main.74bd3787.chunk.js.LICENSE.txt"
   },
   {
     "revision": "7e16f6801a5bc626c977",
